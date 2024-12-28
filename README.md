@@ -1,6 +1,3 @@
-Here's a **README** file for your GitHub repository, summarizing the contents and purpose of the uploaded files:
-
----
 
 # Web Programming Labs
 
